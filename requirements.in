@@ -1,0 +1,4 @@
+# Base learning dependencies can be added here after they are confirmed.
+#
+# The reference repository does not provide a requirements file, so this file is
+# intentionally conservative. Add packages as each chapter actually needs them.

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data and outputs
+data/raw/
+data/processed/
+outputs/
+downloads/
+
+# Secrets and local config
+.env
+.env.*
+*.local
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
