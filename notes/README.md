@@ -8,3 +8,7 @@
 chapter04_first_scraper.md
 chapter05_html_parsing.md
 ```
+
+当前统一笔记：
+
+- `book_notes.md`

@@ -26,6 +26,8 @@ web-scraping-lab/
 4. 把结果保存为 CSV 或 JSON。
 5. 给每个练习写清楚目标、运行方式和结果说明。
 
+现在先从 `exercises/chapter03/urlopen_error_handling.ipynb` 开始。
+
 ## Docs
 
 - `docs/learning-plan.md`: 阶段路线。
