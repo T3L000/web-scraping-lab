@@ -31,6 +31,7 @@ web-scraping-lab/
 ## Docs
 
 - `docs/learning-plan.md`: 阶段路线。
+- `docs/setup-new-computer.md`: 在另一台电脑上继续学习的配置步骤。
 - `docs/workflow.md`: 日常学习和提交方式。
 - `docs/note-template.md`: 笔记模板。
 - `docs/project-template.md`: 项目 README 模板。
@@ -50,8 +51,8 @@ web-scraping-lab/
 本地参考材料：
 
 - `E:\Download\working\爬虫学习\python-scraping`
-- `E:\Download\working\爬虫学习\LOCAL_LEARNING_GUIDE.md`
-- `E:\Download\working\爬虫学习\DEPENDENCY_IMPORTS.md`
+- `E:\Download\working\爬虫学习\docs\LOCAL_LEARNING_GUIDE.md`
+- `E:\Download\working\爬虫学习\docs\DEPENDENCY_IMPORTS.md`
 
 ## Notes
 
